@@ -5,14 +5,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "☞︎︎︎✍︎ 𝙰 𝚁 𝚈 𝙰 𝙽 ✿︎𝙱☺︎︎𝚃 ♕︎",
-  "PREFIX": "-",
+  "BOTNAME": "☞︎︎︎ullash ッ  ✍︎ BOT ♕︎",
+  "PREFIX": "/",
   "OPERATOR": [
-    "61565025325331"
+    "100086680386976"
   ],
   "ADMINBOT": [
-    "61565025325331",
-    "61564523816700"
+    "100086680386976",
+    "100082395531611"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
