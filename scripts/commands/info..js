@@ -25,11 +25,11 @@ const time = process.uptime(),
     seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Manila").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.imgur.com/vukvXxN.jpeg", 
+var link = ["https://i.imgur.com/D9LwmrK.jpeg", 
 
-            "https://i.imgur.com/vukvXxN.jpeg", 
+            "https://i.imgur.com/Hfh1dWk.jpeg", 
 
-            "https://i.imgur.com/x7NlpQW.jpeg",
+            "https://i.imgur.com/buawJO2.jpeg",
 
 "",
 
@@ -40,7 +40,7 @@ ________________________________________
 
 ❇️𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ${global.config.BOTNAME}
 
-❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 ullash ッ   』
+❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 (´∀)🅄🄻🄻🄰🅂🄷 ッ ★.:｡   』
 
 ❇️𝙰𝙳𝙳𝚁𝙴𝚂𝚂 : 𝙳𝙷𝙰𝙺𝙰 𝙶𝙰𝚉𝙸𝙿𝚄𝚁
 
@@ -52,7 +52,7 @@ _____________𝙲𝙾𝙽𝚃𝙰𝙲𝚃_____________
 
 ❇️𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇 : ${global.config.PREFIX}
 
-❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 : ullash ッ   
+❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 : ╚»★«╝ 🆄🅻🅻🅰🆂🅷 ッ   ╚»★«╝
 
 𝙾𝚃𝙷𝙴𝚁 𝙸𝙽𝙵𝙾𝙼𝙰𝚃𝙸𝙾𝙽____________________
 
